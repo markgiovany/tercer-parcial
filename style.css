@@ -233,17 +233,21 @@ body{
         padding: 30px;
        
     }
+
     .text-section {
         width: 50%;
     }
+
     .text-section h1 {
         color: #002366;
         font-size: 32px;
     }
+
     .text-section p {
         color: #002366;
         font-size: 22.5px;
     }
+
     .sign-up-btn {
         background-color: #ff6b6b;
         color: white;
@@ -255,11 +259,87 @@ body{
         margin-top: 20px;
         touch-action: double-tap-zoom;
     }
-    .sign-up-btn-2{background-color: white;
+
+    .sign-up-btn-2 {
+        background-color: white;
         color:  #002366;
         border-color:gray ;
         padding: 12px 24px;
         border-radius: 20px;
         cursor:pointer;
         font-size: 16px;
-        margin-top: 20px;}
+        margin-top: 20px;
+        }
+
+
+
+
+
+
+
+
+
+        .flexible-budgeting-container {
+            transform: translateY(50px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 900px;
+            background-color: white;
+            padding: 30px;
+            position: relative;
+            left: 405px;
+        }
+        
+        .text-section-flex {
+            width: 350px;
+            position: relative;
+            left: 440px;
+        }
+        
+        .text-section-flex h1 {
+            color: #002366;
+            font-size: 32px;
+        }
+        
+        .text-section-flex p {
+            color: #002366;
+            font-size: 20px;
+            width: 410px;
+        }
+        
+        .text-section-flex img {
+            position: relative;
+            bottom: 12px;
+        }
+        
+        .sign-up-btn-flex {
+            background-color: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .learn-more-btn-flex {
+            position: relative;
+            left: 15px;
+            background-color: #fafafa;
+            color: darkblue;
+            padding: 12px 24px;
+            border-radius: 30px;
+            border-color: gray;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .leaderboard {
+            position: relative;
+            left: -480px;
+        }
+
+        
