@@ -303,7 +303,33 @@ form{
     font-weight: 500;
 }
 
+.bg-holder{
+    background-color: #C8D2E1;
+    position: relative;
+    width: 71%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+}
 
+.form-control{
+    background-color: aqua;
+}
+
+.term{
+    text-decoration: none;
+}
+
+.si{
+    color: #082864;
+}
+
+.si button{
+    color: #082864;
+}
 
 
 
