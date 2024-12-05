@@ -922,3 +922,65 @@ form{
             padding: 0px 0px 100px 100px;
         }   
         
+
+
+
+
+
+        .texto h1 {
+            color: orangered;
+            text-align: center;
+            padding: 5px;
+            font-size: small;
+        }
+        
+        .texto h2 {
+            color: rgb(5, 5, 105);
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .texto h3 {
+            color: rgb(5, 5, 105);
+            text-align: center;
+            padding: 40px;
+        }
+        
+        .ye {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            padding: 16px;
+            
+            
+        }
+        
+        .column {
+            flex: 1 1 300px;
+            margin-bottom: 50px;
+            border: none;
+        }
+        
+        .card {
+            border: transparent;
+            border-radius: 0px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .icon {
+            width: 48px;
+            height: 48px;
+            margin-bottom: 10px;
+        }
+        
+        
+        .card-img-top {
+            border-radius: 5px 5px 0 0;
+        }
+        
+        .card-body {
+            padding: 1.25rem 1.25rem;
+        }
+        
+        
