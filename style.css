@@ -519,4 +519,37 @@ form{
             left: -480px;
         }
 
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color:white;
+            transform: translateY(400px);
+        }
+        
+        .titulo  {
+            color: #002366;
+            font-size: 32px;
+            padding: 0px;
+            text-align: start;
+            
+            
+        }
+        .sub {
+            color: #002366;
+            font-size: 22px;
+            text-align: start;
+            height: 150px;
+            
+        }
+        .logo{
+            transform: translateX(-250px);
+        }
+        
+        .erick button{
+            margin: 10px;
+            border-radius: 20px;
+        }
+        
+
         
