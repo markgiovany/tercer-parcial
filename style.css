@@ -386,6 +386,69 @@ form{
         }
 
 
+        .flexible-budgeting-container {
+            transform: translateY(50px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 900px;
+            background-color: white;
+            padding: 30px;
+            left: 405px;
+        }
+        
+        .text-section-flex {
+            width: 350px;
+            left: 440px;
+            padding-left: 10%;
+        }
+        
+        .text-section-flex h1 {
+            color: 0066;
+            font-size: 32px;
+        }
+        
+        .text-section-flex p {
+            color: 002366;
+            font-size: 20px;
+            width: 410px;
+        }
+        
+        .text-section-flex img {
+            bottom: 12px;
+        }
+        
+        .sign-up-btn-flex {
+            background-color: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .learn-more-btn-flex {
+            left: 15px;
+            background-color: #fafafa;
+            color: darkblue;
+            padding: 12px 24px;
+            border-radius: 30px;
+            border-color: gray;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .leaderboard {
+            padding-left: 20px;
+        }
+        
+        .items {
+            margin-top: 10%;
+        }
+
 
 
 
