@@ -519,37 +519,68 @@ form{
             left: -480px;
         }
 
-        .container {
+    
+
+        
+        .flexible-budgeting-container {
+            transform: translateY(50px);
             display: flex;
             align-items: center;
             justify-content: space-between;
-            background-color:white;
-            transform: translateY(400px);
+            max-width: 900px;
+            background-color: white;
+            padding: 30px;
+            position: relative;
+            left: 405px;
         }
         
-        .titulo  {
-            color: #002366;
+        .text-section-flex {
+            width: 350px;
+            position: relative;
+            left: 440px;
+        }
+        
+        .text-section-flex h1 {
+            color: 0066;
             font-size: 32px;
-            padding: 0px;
-            text-align: start;
-            
-            
-        }
-        .sub {
-            color: #002366;
-            font-size: 22px;
-            text-align: start;
-            height: 150px;
-            
-        }
-        .logo{
-            transform: translateX(-250px);
         }
         
-        .erick button{
-            margin: 10px;
+        .text-section-flex p {
+            color: 002366;
+            font-size: 20px;
+            width: 410px;
+        }
+        
+        .text-section-flex img {
+            position: relative;
+            bottom: 12px;
+        }
+        
+        .sign-up-btn-flex {
+            background-color: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
             border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
         }
         
-
+        .learn-more-btn-flex {
+            position: relative;
+            left: 15px;
+            background-color: #fafafa;
+            color: darkblue;
+            padding: 12px 24px;
+            border-radius: 30px;
+            border-color: gray;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
         
+        .leaderboard {
+            position: relative;
+            left: -480px;
+        }
