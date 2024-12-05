@@ -1021,4 +1021,50 @@ form{
         .text-center p{
             font-size:40px ;
         }
+
+        .our-thoughts{
+            width: 1350px;
+            margin-left: 50px;
+        }
+
+        .our-thoughts h3{
+            color: #FF7369;
+            font-weight: 600;
+            font-size: 20px;
+        }
+        
+        .our-thoughts h1{
+            color: #082864;
+            font-size: 26px;
+        }
+        
+        .our-thoughts h2{
+            color: #082864;
+            font-size: 24px;
+        }
+        
+        .text-our-thoughts{
+            width: auto;
+            padding: 10px 0px 0px 0px;
+            margin-left: 50px;
+        }
+        
+        .text-our-thoughts p{
+            color: #082864;
+            font-weight: 600;
+            font-size: 19px;
+            padding: 10px 50px 0px 0px;
+            width: 900px;
+        }
+        
+        .side-text-ot{
+            position: relative;
+            left: 1000px;
+            bottom: 480px;
+        }
+        
+        .side-text-ot p{
+            padding: auto;
+            width: 300px;
+        }
         
