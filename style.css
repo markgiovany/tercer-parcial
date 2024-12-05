@@ -983,4 +983,42 @@ form{
             padding: 1.25rem 1.25rem;
         }
         
+
+        .ara {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 50vh; 
+            background:linear-gradient(to right, #202154, #1b2085);
+          }
+          
+          .ara h2 {
+            color: white; 
+            font-weight: bold;
+          }
+          
+          .ara p {
+            color: white; 
+            text-align: center;
+          }
+          
+          .btn-primary {
+            background-color: orangered; 
+            border: none;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+          }
+        .text-center{
+            font-size: 18px;
+            
+        }
+        .text-center-mb-4{
+            font-size: 35px;
+        }
+        .text-center p{
+            font-size:40px ;
+        }
         
