@@ -552,4 +552,46 @@ form{
         }
         
 
+        .camaron {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(to right, rgb(98, 103, 180), rgb(42, 33, 105), rgb(98, 103, 180));
+            border: transparent;
+            padding: 60px;
+          }
         
+          .text-center h2 {
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 30px;
+            font-weight: 600;
+          }
+          
+          .text-center p {
+            color: #9fdcff;
+            font-family:Arial, sans-serif ;
+            font-size: 18px;
+          }
+          
+          .btn-success{
+            border: none;
+            padding: 12px 24px;
+            border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .btn-outline-success {
+            position: relative;
+            left: 15px;
+            padding: 12px 24px;
+            border-radius: 30px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+         
+          
