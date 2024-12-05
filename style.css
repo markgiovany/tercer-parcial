@@ -1068,3 +1068,45 @@ form{
             width: 300px;
         }
         
+
+        .containertrack {
+            transform: translateY(50px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 900px;
+            background-color: white;
+            padding: 30px;
+            left: 405px;
+        }
+        
+        .sign-up-btn-track {
+            background-color: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .learn-more-btn-track {
+            left: 15px;
+            background-color: #fafafa;
+            color: darkblue;
+            padding: 12px 24px;
+            border-radius: 30px;
+            border-color: gray;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        .buyhome {
+            padding-left: 20px;
+        }
+        
+        .itemstrack {
+            margin-top: 10%;
+        }
