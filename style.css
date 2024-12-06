@@ -1110,3 +1110,36 @@ form{
         .itemstrack {
             margin-top: 10%;
         }
+
+        .camaron {
+           height: 200px;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(to right, rgb(98, 103, 180), rgb(42, 33, 105), rgb(98, 103, 180));
+            border: transparent;
+            p
+          }
+        
+          .text-center h2 {
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 30px;
+            font-weight: 600;
+          }
+          
+          .text-center p {
+            color: #9fdcff;
+            font-family:Arial, sans-serif ;
+            font-size: 18px;
+          }
+          
+          .btn-success{
+            border: none;
+            padding: 12px 24px;
+            border-radius: 20px;
+            cursor:pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        
+        
