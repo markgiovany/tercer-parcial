@@ -1256,3 +1256,36 @@ form{
 }
 
 
+
+
+
+.cajon {
+    transform: translateY(50px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 900px;
+    background-color: white;
+    padding: 30px;
+}
+.text-section {
+    width: 50%;
+}
+.text-section h1 {
+    color: #002366;
+    font-size: 32px;
+}
+.text-section p {
+    color: #002366;
+    font-size: 22.5px;
+}
+.sign-up-btn {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 20px;
+    cursor:pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
