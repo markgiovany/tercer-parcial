@@ -1141,5 +1141,47 @@ form{
             font-size: 16px;
             margin-top: 20px;
         }
+
+        .containe {
+    transform: translateY(50px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 900px;
+    background-color: white;
+    padding: 30px;
+}
+.text-section {
+    width: 50%;
+}
+.text-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    justify-content: flex-start;
+    color: #002366;
+}
+.text-section p {
+    font-size: 18px;
+    color: #666;
+}
+.sign-up-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.sign-up-btn-2{
+    background-color: white;
+    color:  #002366;
+    border-color:gray;
+    padding: 12px 24px;
+    border-radius: 20px;
+    cursor:pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    transform: translateX(20px);
+}
         
         
